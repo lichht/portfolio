@@ -8,6 +8,7 @@ export default function Home() {
       <HomeFirstSection />
       <SectionHeader title="Project" />
       <SectionHeader title="Skills" />
+      <SectionHeader title="Skills 2" />
       {/* quote */}
       <section></section>
     </div>
